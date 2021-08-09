@@ -2,7 +2,7 @@
 - 👀 I’m interested in front-end design
 - 🌱 I’m currently learning UI/UX design
 - 💞️ I’m looking to collaborate on web development projects
-- 📫 How to reach me... andariodm@gmail.com
+- 📫 How to reach me... dawnmariedesigns100@gmail.com
 
 <!---
 dawnmarieee/dawnmarieee is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
