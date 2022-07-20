@@ -4,7 +4,7 @@
 - 💞️ I’m looking to collaborate on web development projects
 - 📫 How to reach me... dawnmariedesigns100@gmail.com
 
-Hello! Here's my latest responsive webpage design in html, css, javascript all in one page.  
+Hello! Check out my latest responsive webpage design in html, css, javascript all in one page.  
 
 https://dawnmarieee.github.io/landing-page5/
 
