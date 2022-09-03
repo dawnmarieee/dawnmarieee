@@ -4,9 +4,24 @@
 - 💞️ I’m looking to collaborate on web development projects
 - 📫 How to reach me... dawnmariedesigns100@gmail.com
 
-Hello! Check out my latest responsive webpage design in html, css, javascript available in desktop and mobile view all in one page.  
+Education:
+Bachelor of Science in Information Technology from West Visayas State University
+Associate of Science in Web Application Development from AMA Computer Learning Center
 
-https://dawnmarieee.github.io/landing-page5/
+Certifications:
+Essential Google Cloud Infrastructure: Foundation
+Essential Google Cloud Infrastructure: Core Services
+Architecting with Google Kubernetes Engine: Foundations
+Reliable Google Cloud Infrastructure: Design and Process
+Learn CSS Course
+Learn Javascript Course
+Learn ReactJS Course
+
+
+Core Skills:
+Front-End Web Design
+UI/UX Design and Graphic Design
+
 
 
 <!---
