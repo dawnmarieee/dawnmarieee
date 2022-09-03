@@ -20,7 +20,7 @@ Certifications:
 
 Core Skills:
 - Front-End Web Design
-- UI/UX Design and Graphic Design
+- UI/UX Design
 
 
 
